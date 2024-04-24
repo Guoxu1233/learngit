@@ -77,3 +77,4 @@ class Solution:
 
 solution = Solution()
 print(solution.lengthOfLongestSubstring("abcabcbb"))
+print()
